@@ -1,0 +1,10 @@
+#sorce code
+https://colab.research.google.com/drive/1LQm-qWR0mHWfiYCJCWLVt0M5uQem2DcR?usp=sharing
+
+#files
+
+#已訓練權重檔
+https://drive.google.com/file/d/1DaClqTyBKYC_oxdFbC95ejNuyaJFgejP/view?usp=sharing
+
+#dataset
+https://drive.google.com/file/d/19YOs4fj0BC0QwnBTm-sSNRvzIk88hv1u/view?usp=sharing
